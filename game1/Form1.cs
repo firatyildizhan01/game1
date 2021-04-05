@@ -35,6 +35,7 @@ namespace game1
         private void Form1_Load(object sender, EventArgs e)
         {
             timer1.Enabled = true;
+            int a = 3;
         }
     }
 }
